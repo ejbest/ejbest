@@ -4,7 +4,7 @@
 - 🗣 Extensive experience in Cloud and Automation 
 - 🚀 Strong knowledge PIPELINES, DevOps, Linux, Windows, System Integration, Automation, Security Auditing, Web/Database Servers, Scripting and Light Programming. Strong documentation and interpersonal communications skills. A self-starter.
 - 📲 Specialties: Hands on Everything, CyberSecurity, DevOps, Automation, Compliance, ITIL, Change Control, Support and Troubleshooting, Adapted philosophy to LISTEN, then Lead by Example.
-- 🤝🏻 I am passionate about my work and I love what I do so expect great quality from me because I believe Quality is everything and nothing without it.
+- 🤝🏻 I am passionate all of this.  COLLABORATION is even better; let me learn from you!
 
 <br>
 
