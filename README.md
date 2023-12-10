@@ -1,9 +1,13 @@
 # Hi, I'm Erich; better known as EJ 👋🏻
 
-## **I'm a Cloud Engineering, DevSecOps, Pipelines, Cybersecurity.**
-- 🗣 Extensive experience in Cloud, Cybersecurity and Automation, Terraform, Kuberenetes, Containers, Pipelines.  Have worked on AWS, Google, Azure, Digital Ocean, Proxmox 
-- 🚀 Strong knowledge PIPELINES, DevOps, Linux, Windows, System Integration, Automation, Security Auditing, Web/Database Servers, Scripting and Light Programming. Strong documentation and interpersonal communications skills. A self-starter.
-- 📲 Specialties: Hands on Everything, CyberSecurity, DevOps, Automation, Compliance, ITIL, Change Control, Support and Troubleshooting, Adapted philosophy to LISTEN, then Lead by Example.
+## **Cloud Engineering, DevSecOps, Pipelines, Cybersecurity.**
+- 🗣 Extensive experience in Cloud, Cybersecurity, Terraform, Kuberenetes, Containers, Pipelines
+- Have worked on AWS, Google, Azure, Digital Ocean, Proxmox 
+- 🚀 Strong knowledge PIPELINES, DevOps, Linux, Windows, System Integration, Automation
+- Security Auditing, Web/Database Servers, Scripting and Light Programming
+- Strong documentation and interpersonal communications skills. A self-starter
+- 📲 Specialties: Hands on Everything, CyberSecurity, DevOps, Automation, Compliance, ITIL, Change Control, Support and Troubleshooting
+- Adapted philosophy to LISTEN, then Lead by Example.
 - 🤝🏻 I am passionate all of this.  COLLABORATION is even better; let me learn from you!
 
 <br>
