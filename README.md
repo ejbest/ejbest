@@ -1,4 +1,4 @@
-# Hi, I'm Erich 👋🏻
+# Hi, I'm Erich; better known as EJ 👋🏻
 
 ## **I'm a Cloud Engineering, DevSecOps, Pipelines, Cybersecurity.**
 - 🗣 Extensive experience in Cloud and Automation 
