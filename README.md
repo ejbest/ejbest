@@ -1,18 +1,12 @@
-# Hi, I'm Erich; better known as EJ 👋🏻
-
-## **Cloud Engineering, DevSecOps, Pipelines, Cybersecurity.**
-- 🗣 Extensive experience in Cloud, Cybersecurity, Terraform, Kuberenetes, Containers, Pipelines
-- Have worked on AWS, Google, Azure, Digital Ocean, Proxmox 
-- 🚀 Strong knowledge PIPELINES, DevOps, Linux, Windows, System Integration, Automation
-- Security Auditing, Web/Database Servers, Scripting and Light Programming
-- Strong documentation and interpersonal communications skills. A self-starter
+# Hi, I'm Erich; better known as EJ 👋🏻 ## **Cloud Engineering, DevSecOps, Pipelines, Cybersecurity.**
+- 🗣 Cybersecurity, Terraform, Kuberenetes, Containers, Pipelines, AWS, Google, Azure, Digital Ocean, Proxmox 
+- 🚀 Strong knowledge PIPELINES, DevOps, System Integration, Automation, Security Auditing, Web/Database Servers, Scripting and Light Programming
 - 📲 Specialties: Hands on Everything, CyberSecurity, DevOps, Automation, Compliance, ITIL, Change Control, Support and Troubleshooting
-- Adapted philosophy to LISTEN, then Lead by Example.
 - 🤝🏻 I am passionate all of this.  COLLABORATION is even better; let me learn from you!
 
 <br>
 
-## **Connect with Me On Social Media** 🤝🏻 &nbsp;
+### **Connect with Me On Social Media** 🤝🏻 &nbsp;
 
 <h3 align="left">
 <a href="https://www.linkedin.com/in/ejbest/"><img src="https://img.icons8.com/color/30/000000/linkedin.png" alt="linkedin"/></a>
@@ -20,7 +14,7 @@
 
 <br>
 
-## **My Videos on Youtube**
+### **My Videos on Youtube**
 
 | No  | Video |
 | --- | ----------- |
