@@ -1,6 +1,6 @@
 ### Hi, I'm EJ 👋🏻  **Cloud, DevSecOps, Pipelines, Cybersecurity.**
 - 🗣 Cybersecurity, Terraform, Kuberenetes, Containers, Pipelines, AWS, Google, Azure, Digital Ocean, Proxmox 
-- 🚀 Pipeline Solutions; keeping it all running
+- 🚀 Pipeline Solutions; keeping it all running, examples here in these repos shared for you.
 - 📲 How can any of these projects support you?
 - 🤝🏻 Passionate on all and COLLABORATION is great; how are your projects?
 <br>
