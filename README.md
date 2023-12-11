@@ -1,8 +1,8 @@
 ### Hi, I'm EJ 👋🏻  **Cloud, DevSecOps, Pipelines, Cybersecurity.**
 - 🗣 Cybersecurity, Terraform, Kuberenetes, Containers, Pipelines, AWS, Google, Azure, Digital Ocean, Proxmox 
-- 🚀 Strong knowledge PIPELINES, DevOps, System Integration, Automation, Web/Database Servers, Scripting
-- 📲 Hands on Everything, Compliance, ITIL, Change Control, Support and Troubleshooting
-- 🤝🏻 I am passionate all of this.  COLLABORATION is even better; let me learn from you!
+- 🚀 Pipeline Solutions; keeping it all running
+- 📲 How can any of these projects support you?
+- 🤝🏻 Passionate on all and COLLABORATION is great; how are your projects?
 <br>
 <h3 align="left">
 <a href="https://www.linkedin.com/in/ejbest/"><img src="https://img.icons8.com/color/30/000000/linkedin.png" alt="linkedin"/></a>
