@@ -15,8 +15,8 @@
 ## **Connect with Me On Social Media** 🤝🏻 &nbsp;
 
 <h3 align="left">
-<a href="https://www.linkedin.com/in/ejbest/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-<a href="https://www.youtube.com/@EJBest-DevSecOps" target="_blank"><img src="https://img.icons8.com/color/344/youtube-play.png" alt="youtube" width="100" height="100"/></a>
+<a href="https://www.linkedin.com/in/ejbest/"><img src="https://img.icons8.com/color/30/000000/linkedin.png" alt="linkedin"/></a>
+<a href="https://www.youtube.com/@EJBest-DevSecOps" target="_blank"><img src="https://img.icons8.com/color/344/youtube-play.png" alt="youtube" width="30" height="30"/></a>
 
 <br>
 
@@ -25,12 +25,4 @@
 | No  | Video |
 | --- | ----------- |
 | 1 | [Three Server HomeLab for less than $1,000!](https://www.youtube.com/watch?v=4thPO2f_GkY)
-
-
-<br>
-
-## **My Channel On Youtube**
-- 👉🏻 [Youtube Channel For EJ Best](https://www.udemy.com/user/bryan-krausen/ "Udemy Profile")
-
-<be>
 
