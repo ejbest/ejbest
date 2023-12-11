@@ -1,7 +1,7 @@
 # Hi, I'm EJ 👋🏻 ## **Cloud Engineering, DevSecOps, Pipelines, Cybersecurity.**
 - 🗣 Cybersecurity, Terraform, Kuberenetes, Containers, Pipelines, AWS, Google, Azure, Digital Ocean, Proxmox 
-- 🚀 Strong knowledge PIPELINES, DevOps, System Integration, Automation, Security Auditing, Web/Database Servers, Scripting and Light Programming
-- 📲 Specialties: Hands on Everything, CyberSecurity, DevOps, Automation, Compliance, ITIL, Change Control, Support and Troubleshooting
+- 🚀 Strong knowledge PIPELINES, DevOps, System Integration, Automation, Web/Database Servers, Scripting
+- 📲 Hands on Everything, Compliance, ITIL, Change Control, Support and Troubleshooting
 - 🤝🏻 I am passionate all of this.  COLLABORATION is even better; let me learn from you!
 <br>
 <h3 align="left">
