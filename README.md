@@ -9,7 +9,7 @@
 <a href="https://www.youtube.com/@EJBest-DevSecOps" target="_blank"><img src="https://img.icons8.com/color/344/youtube-play.png" alt="youtube" width="30" height="30"/></a>
 </h3>
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/EJBest-DevSecOps)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@EJBest-DevSecOps)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ejbest)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ejbest_ontarget)
 
