@@ -4,10 +4,6 @@
 - 📲 How can any of these projects support you?
 - 🤝🏻 Passionate on all and COLLABORATION is great; how are your projects?
 <br>
-<h3 align="left">
-<a href="https://www.linkedin.com/in/ejbest/"><img src="https://img.icons8.com/color/30/000000/linkedin.png" alt="linkedin"/></a>
-<a href="https://www.youtube.com/@EJBest-DevSecOps" target="_blank"><img src="https://img.icons8.com/color/344/youtube-play.png" alt="youtube" width="30" height="30"/></a>
-</h3>
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@EJBest-DevSecOps)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ejbest)
