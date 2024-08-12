@@ -7,6 +7,7 @@
 <h3 align="left">
 <a href="https://www.linkedin.com/in/ejbest/"><img src="https://img.icons8.com/color/30/000000/linkedin.png" alt="linkedin"/></a>
 <a href="https://www.youtube.com/@EJBest-DevSecOps" target="_blank"><img src="https://img.icons8.com/color/344/youtube-play.png" alt="youtube" width="30" height="30"/></a>
+<a href="https://x.com/ejbest_ontarget" target="_blank"><img src="https://img.icons8.com/color/344/youtube-play.png" alt="youtube" width="30" height="30"/></a>
 </h3>
 
   
